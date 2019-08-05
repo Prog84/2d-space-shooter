@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Enemy
+  - Bullet
+  - Shield
+  - sl_HP
+  - sl_Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2500839591
+    locked: 0
+  - name: Stars
+    uniqueID: 2497032859
+    locked: 0
+  - name: Planets
+    uniqueID: 4033899449
+    locked: 0
+  - name: Enemy
+    uniqueID: 1682836913
+    locked: 0
+  - name: Bullet
+    uniqueID: 2777126055
+    locked: 0
+  - name: Bonus
+    uniqueID: 3576077247
+    locked: 0
+  - name: PS
+    uniqueID: 84864297
+    locked: 0
+  - name: Player
+    uniqueID: 3263726549
+    locked: 0
+  - name: UI
+    uniqueID: 3772472527
+    locked: 0
